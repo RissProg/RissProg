@@ -3,17 +3,28 @@
 Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile ilgilenen bir öğrenciyim. Kod yazmayı, yeni teknolojiler öğrenmeyi ve projeler geliştirmeyi seviyorum. GitHub profilimde öğrendiklerimi paylaşacağım! 🚀
 
 ## 📊 GitHub İstatistiklerim
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" width="48%">
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RissProg&theme=radical&hide_border=true" alt="GitHub Streak" width="100%">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RissProg&theme=radical" alt="GitHub Contribution Graph" width="100%">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="<img src="https://github-readme-streak-stats.herokuapp.com/?user=RissProg&theme=radical&hide_border=true" alt="GitHub Streak">">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RissProg&theme=radical" alt="GitHub Contribution Graph">
-</p>
-
+</div>
 ## 🎯 Hedeflerim
 
 - 🔹 **Programlama dillerinde yetkinlik kazanmak (Şu an üzerinde çalışıyorum:** **Python, C#, JavaScript**)
