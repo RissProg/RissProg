@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+%İdriscan%5D!;Yazılım+Geliştirme+Öğrencisiyim;Açık+Kaynak+Projeleri+Seviyorum!;Kod+Yazmak+Benim+İçin+Bir+Tutku!" alt="Typing SVG" />
+</h1>
+
 # 💻 Hey! Ben İdriscan \ RissProg 👋
 
 Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile ilgilenen bir öğrenciyim. Kod yazmayı, yeni teknolojiler öğrenmeyi ve projeler geliştirmeyi seviyorum. GitHub profilimde öğrendiklerimi paylaşacağım! 🚀
