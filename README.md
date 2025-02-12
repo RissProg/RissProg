@@ -1,13 +1,11 @@
 <h1 align="center">
-  <p align="center">
-  <img src="https://media.giphy.com/media/VxbVpaz7UVhYau2Q8E/giphy.gif" width="500" />
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+İdriscan!;Yazılım+Geliştirme+Öğrencisiyim;Açık+Kaynak+Projeleri+Seviyorum!;Kod+Yazmak+Benim+İçin+Bir+Tutku!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VxbVpaz7UVhYau2Q8E/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/l1J9x1zd4NFElepyE/giphy.gif" width="500" />
 </p>
+
 
 <p align="center">
   👋 Ben yazılım alanında kendini geliştirmeye çalışan ve <b>siber güvenlik</b> ile ilgilenen bir öğrenciyim.  
