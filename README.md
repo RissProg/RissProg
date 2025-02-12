@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+İdriscan!;Yazılım+Geliştirme+Öğrencisiyim;Açık+Kaynak+Projeleri+Seviyorum!;Kod+Yazmak+Benim+İçin+Bir+Tutku!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+İdriscan!;Yazılım+Geliştirme+Öğrencisiyim;Açık+Kaynak+Projeleri+Seviyorum!;Kod+Yazmak+Benim+İçin+Bir+Tutku!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/VxbVpaz7UVhYau2Q8E/giphy.gif" width="500" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 ## 🛠️ Kullandığım Teknolojiler  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" />
 </p>
 
 ---
