@@ -4,7 +4,7 @@ Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile 
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KullanıcıAdın&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical)
 
 ## 🎯 Hedeflerim
 
