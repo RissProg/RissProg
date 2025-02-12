@@ -8,10 +8,10 @@ Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical" alt="GitHub Stats" width="75%">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" width="125%">
     </td>
   </tr>
 </table>
