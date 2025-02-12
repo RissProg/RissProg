@@ -8,23 +8,21 @@ Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile 
 
 ## 🎯 Hedeflerim
 
-- 🔹 Programlama dillerinde yetkinlik kazanmak (Şu an üzerinde çalışıyorum: **Python, C#, JavaScript**)
-- 🔹 Açık kaynak projelere katkıda bulunmak
-- 🔹 Veri yapıları ve algoritmalar konusunda uzmanlaşmak
-- 🔹 Web ve mobil geliştirme alanlarında deneyim kazanmak
-- 🔹 Yapay zeka ve makine öğrenmesi üzerine çalışmak
+- 🔹 **Programlama dillerinde yetkinlik kazanmak (Şu an üzerinde çalışıyorum:** **Python, C#, JavaScript**)
+- 🔹 **Açık kaynak projelere katkıda bulunmak**
+- 🔹 **Veri yapıları ve algoritmalar konusunda uzmanlaşmak**
+- 🔹 **Web ve mobil geliştirme alanlarında deneyim kazanmak**
 
 ## 🔥 İlgi Alanlarım
 
 - 🖥️ **Full-Stack Web Geliştirme**  
 - 📱 **Mobil Uygulama Geliştirme**  
-- 🤖 **Yapay Zeka ve Makine Öğrenmesi**  
 - 🎮 **Oyun Geliştirme**  
 - 🛠 **Açık Kaynak Projeler**  
 
 ## 📫 Bana Ulaşın
 
-📧 **E-posta:** ozinceidriscan@email.com  
+📧 **E-posta:** ozinceidriscan@gmail.com  
 🔗 **LinkedIn:** []  
 🐦 **Twitter/X:** []  
 
