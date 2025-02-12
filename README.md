@@ -6,7 +6,7 @@ Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" width="51%">
 </p>
 
 <p align="center">
