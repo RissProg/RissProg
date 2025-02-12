@@ -14,6 +14,11 @@ Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" width="100%">
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=RissProg&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="100%">
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -21,7 +26,6 @@ Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RissProg&theme=radical" alt="GitHub Contribution Graph" width="100%">
 
 </div>
-
 ## 🎯 Hedeflerim
 
 - 🔹 **Programlama dillerinde yetkinlik kazanmak (Şu an üzerinde çalışıyorum:** **Python, C#, JavaScript**)
