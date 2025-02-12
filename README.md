@@ -4,8 +4,15 @@ Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile 
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RissProg&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RissProg&theme=radical" alt="GitHub Contribution Graph">
+</p>
 
 ## 🎯 Hedeflerim
 
