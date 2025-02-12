@@ -2,11 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+İdriscan!;Yazılım+Geliştirme+Öğrencisiyim;Açık+Kaynak+Projeleri+Seviyorum!;Kod+Yazmak+Benim+İçin+Bir+Tutku!" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
+<p align="center">
+  👋 Ben yazılım alanında kendini geliştirmeye çalışan ve <b>siber güvenlik</b> ile ilgilenen bir öğrenciyim.  
+  Kod yazmayı, yeni teknolojiler öğrenmeyi ve projeler geliştirmeyi seviyorum.  
+  GitHub profilimde öğrendiklerimi paylaşacağım! 🚀
+</p>
 
-Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile ilgilenen bir öğrenciyim. Kod yazmayı, yeni teknolojiler öğrenmeyi ve projeler geliştirmeyi seviyorum. GitHub profilimde öğrendiklerimi paylaşacağım! 🚀
+---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub İstatistiklerim  
+
 <div align="center">
 
 <table>
@@ -30,32 +39,47 @@ Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RissProg&theme=radical" alt="GitHub Contribution Graph" width="100%">
 
 </div>
-## 🎯 Hedeflerim
 
-- 🔹 **Programlama dillerinde yetkinlik kazanmak (Şu an üzerinde çalışıyorum:** **Python, C#, JavaScript**)
-- 🔹 **Açık kaynak projelere katkıda bulunmak**
-- 🔹 **Veri yapıları ve algoritmalar konusunda uzmanlaşmak**
-- 🔹 **Web ve mobil geliştirme alanlarında deneyim kazanmak**
+---
 
-## 🔥 İlgi Alanlarım
+## 🎯 Hedeflerim  
+
+✅ **Programlama dillerinde yetkinlik kazanmak** *(Şu an: `Python`, `C#`, `JavaScript`)*  
+✅ **Açık kaynak projelere katkıda bulunmak**  
+✅ **Veri yapıları ve algoritmalar konusunda uzmanlaşmak**  
+✅ **Web ve mobil geliştirme alanlarında deneyim kazanmak**  
+
+---
+
+## 🔥 İlgi Alanlarım  
 
 - 🖥️ **Full-Stack Web Geliştirme**  
 - 📱 **Mobil Uygulama Geliştirme**  
 - 🎮 **Oyun Geliştirme**  
 - 🛠 **Açık Kaynak Projeler**  
+- 🛡️ **Siber Güvenlik**  
 
-## 📫 Bana Ulaşın
+---
+
+## 🛠️ Kullandığım Teknolojiler  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,,js,html,css,git,github" />
+</p>
+
+---
+
+## 📫 Bana Ulaşın  
 
 📧 **E-posta:** ozinceidriscan@gmail.com  
-🔗 **LinkedIn:** []  
-🐦 **Twitter/X:** []  
+🔗 **LinkedIn:** *[]*  
+🐦 **Twitter/X:** *[]*  
 
-Eğer benzer konulara ilgi duyuyorsan, projelerimi inceleyebilir ve birlikte öğrenebiliriz! 🚀  
+🚀 Eğer benzer konulara ilgi duyuyorsan, projelerimi inceleyebilir ve birlikte öğrenebiliriz!  
 
+---
 
-
-
-<!---
-RissProg/RissProg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
+  <b>Teşekkürler! Profilimi ziyaret ettiğin için! 🚀</b>
+</p>
