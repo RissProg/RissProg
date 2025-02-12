@@ -10,7 +10,7 @@ Ben yazılım alanında kendini geliştirmeye çalışan ve siber güvenlik ile 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RissProg&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="<img src="https://github-readme-streak-stats.herokuapp.com/?user=RissProg&theme=radical&hide_border=true" alt="GitHub Streak">">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RissProg&theme=radical" alt="GitHub Contribution Graph">
 </p>
 
