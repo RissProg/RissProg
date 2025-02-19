@@ -45,9 +45,9 @@
 ---
 
 ## 🌍 Katkı Sağladığım Projeler:
-- [Proje 1](https://github.com/RissProg/EditorApp)
-- [Proje 2](https://github.com/RissProg/CSharp-PinPonGame)
-- [Proje 3](https://github.com/RissProg/TicTacToeGame)
+- [Editor App](https://github.com/RissProg/EditorApp)
+- [Ping Pong Game](https://github.com/RissProg/CSharp-PinPonGame)
+- [Tic Tac Toe Game](https://github.com/RissProg/TicTacToeGame)
 
 ## 🎯 Hedeflerim  
 
