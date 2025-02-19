@@ -71,7 +71,8 @@
 
 ---
 
-![Spotify Çalıyor](https://spotify-github-profile.vercel.app/api/view?uid=p4uphpdhphckorvcy9v8kvy5u&cover_image=true&theme=default)
+![Spotify Now Playing](https://spotify-now-playing.kurland.dev/api/spotify?border_color=000000&background_color=1DB954&song_name=true&artist_name=true)
+
 
 
 ## 📫 Bana Ulaşın  
