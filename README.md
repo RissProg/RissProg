@@ -44,6 +44,11 @@
 
 ---
 
+## 🌍 Katkı Sağladığım Projeler:
+- [Proje 1](https://github.com/RissProg/EditorApp)
+- [Proje 2](https://github.com/RissProg/CSharp-PinPonGame)
+- [Proje 3](https://github.com/RissProg/TicTacToeGame)
+
 ## 🎯 Hedeflerim  
 
 ✅ **Programlama dillerinde yetkinlik kazanmak** *(Şu an: `Python`, `C#`, `JavaScript`,`C++`)*  
