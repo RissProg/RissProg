@@ -70,6 +70,7 @@
 </p>
 
 ---
+<iframe src="https://open.spotify.com/embed/album/5SHv3oXpZdmsqHt57lY0Yg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 ## 📫 Bana Ulaşın  
@@ -81,9 +82,6 @@
 🚀 Eğer benzer konulara ilgi duyuyorsan, projelerimi inceleyebilir ve birlikte öğrenebiliriz!  
 
 ---
-
-<iframe src="https://open.spotify.com/intl-tr/album/5SHv3oXpZdmsqHt57lY0Yg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
