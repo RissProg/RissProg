@@ -46,7 +46,7 @@
 
 ## 🎯 Hedeflerim  
 
-✅ **Programlama dillerinde yetkinlik kazanmak** *(Şu an: `Python`, `C#`, `JavaScript`)*  
+✅ **Programlama dillerinde yetkinlik kazanmak** *(Şu an: `Python`, `C#`, `JavaScript`,`C++`)*  
 ✅ **Açık kaynak projelere katkıda bulunmak**  
 ✅ **Veri yapıları ve algoritmalar konusunda uzmanlaşmak**  
 ✅ **Web ve mobil geliştirme alanlarında deneyim kazanmak**  
