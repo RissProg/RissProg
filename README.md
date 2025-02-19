@@ -71,6 +71,9 @@
 
 ---
 
+![Spotify Çalıyor](https://spotify-github-profile.vercel.app/api/view?uid=p4uphpdhphckorvcy9v8kvy5u&cover_image=true&theme=default)
+
+
 ## 📫 Bana Ulaşın  
 
 📧 **E-posta:** ozinceidriscan@gmail.com  
