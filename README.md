@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+İdriscan+/+RissProg!;Yazılım+Geliştirme+Öğrencisiyim;Açık+Kaynak+Projeleri+Seviyorum!;Kod+Yazmak+Benim+İçin+Bir+Tutku!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOxf48INJZz7g9LC0/giphy.gif" width="500" />
-</p>
+![Yılan Oyunu](https://github.com/kullanıcı_adınız/depoadı/raw/main/yılan_oyunu.gif)
+
 
 
 
