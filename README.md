@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  👋 Ben yazılım alanında kendini geliştirmeye çalışan ve <b>siber güvenlik</b> ile ilgilenen bir öğrenciyim.  
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  Ben yazılım alanında kendini geliştirmeye çalışan ve <b>siber güvenlik</b> ile ilgilenen bir öğrenciyim.  
   Kod yazmayı, yeni teknolojiler öğrenmeyi ve projeler geliştirmeyi seviyorum.  
   GitHub profilimde öğrendiklerimi paylaşacağım! 🚀
 </p>
