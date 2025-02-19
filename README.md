@@ -82,7 +82,7 @@
 
 ---
 
-<iframe src="https://open.spotify.com/embed/track/track_id" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/intl-tr/album/5SHv3oXpZdmsqHt57lY0Yg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 <p align="center">
