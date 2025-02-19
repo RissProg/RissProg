@@ -66,7 +66,7 @@
 ## 🛠️ Kullandığım Teknolojiler  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js,html,cpp,css,git,github" />
 </p>
 
 ---
