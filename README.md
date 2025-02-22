@@ -46,8 +46,8 @@
 
 ## 🌍 Katkı Sağladığım Projeler:
 - [Editor App](https://github.com/RissProg/EditorApp)
-- [Ping Pong Game](https://github.com/RissProg/CSharp-PinPonGame)
-- [Tic Tac Toe Game](https://github.com/RissProg/TicTacToeGame)
+- [Page Translator Ext.](https://github.com/RissProg/PageTranslatorExtension)
+- [Pass Generator](https://github.com/RissProg/Pass-Generator)
 
 ## 🎯 Hedeflerim  
 
