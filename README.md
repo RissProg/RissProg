@@ -54,7 +54,7 @@
 ✅ **Programlama dillerinde yetkinlik kazanmak** *(Şu an: `Python`, `C#`, `JavaScript`,`PHP`)*  
 ✅ **Açık kaynak projelere katkıda bulunmak**  
 ✅ **Veri yapıları ve algoritmalar konusunda uzmanlaşmak**  
-✅ **Web ve mobil geliştirme alanlarında deneyim kazanmak**  
+✅ **Web, mobil uygulama geliştirme ve siber güvenlik alanlarında deneyim kazanmak**  
 
 ---
 
@@ -62,7 +62,6 @@
 
 - 🖥️ **Full-Stack Web Geliştirme**  
 - 📱 **Mobil Uygulama Geliştirme**  
-- 🎮 **Oyun Geliştirme**  
 - 🛠 **Açık Kaynak Projeler**  
 - 🛡️ **Siber Güvenlik**  
 
@@ -84,7 +83,7 @@
 🔗 **LinkedIn:** *[]*  
 🐦 **Twitter/X:** *[]*  
 
-🚀 Eğer benzer konulara ilgi duyuyorsan, projelerimi inceleyebilir ve birlikte öğrenebiliriz!  
+🚀 Eğer benzer konulara ilgi duyuyorsan, projelerimi inceleyebilirsin ve birlikte öğrenebiliriz!  
 
 ---
 
