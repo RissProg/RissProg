@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Merhaba%2C+Ben+İdriscan+%7C+RissProg;Yazılım+Geliştirme+Öğrencisiyim;Siber+Güvenliğe+İlgi+Duyuyorum;Açık+Kaynak+%2B+Kod+Tutkusu!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Merhaba%2C+Ben+İdriscan+%7C+RissProg;Yazılım+Geliştirme+Öğrencisiyim;Siber+Güvenliğe+İlgi+Duyuyorum"
     alt="Typing SVG"
   />
 </h1>
@@ -25,30 +25,22 @@
 
 <div align="center">
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical&count_private=true"
-        alt="GitHub Stats"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical"
-        alt="Most Used Languages"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" />
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img 
-        src="https://github-profile-trophy.vercel.app/?username=RissProg&theme=radical&no-frame=true&row=1&column=6"
-        alt="GitHub Trophies"
-      />
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=RissProg&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
+
 
 <br>
 
