@@ -25,21 +25,6 @@
 
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RissProg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RissProg&layout=compact&theme=radical" alt="Most Used Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=RissProg&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
 
 
 <br>
