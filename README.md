@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=RissProg&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=Merhaba+Ben+Can+%7C+RissProg;Yazilim+Gelistirici+Ve+Ogrenciyim;Siber+Guvenlige+Ilgi+Duyuyorum;" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=RissProg&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
-</p>
+
 
 ---
 
