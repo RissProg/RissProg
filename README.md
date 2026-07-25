@@ -6,12 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=RissProg&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RissProg&label=Profile%20Views&color=00ff00&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/RissProg?style=for-the-badge&color=00ff00"/>
-<img src="https://img.shields.io/github/stars/RissProg?affiliations=OWNER&style=for-the-badge&color=00ff00"/>
-</p>
-
 ---
 
 # 💻 Hakkımda
