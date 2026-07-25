@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=Merhaba+Ben+%C4%B0driscan+%7C+RissProg;Software+Developer;Cyber+Security+Enthusiast;Future+Defense+Industry+Engineer" alt="Typing SVG" />
 </h1>
@@ -162,4 +161,3 @@ Modern masaüstü metin editörü
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer"/>
 
 </p>
-````
