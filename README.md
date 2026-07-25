@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=Merhaba+Ben+%C4%B0driscan+%7C+RissProg;Software+Developer;Cyber+Security+Enthusiast;Future+Defense+Industry+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF00&center=true&vCenter=true&width=900&lines=Merhaba+Ben+Can+%7C+RissProg;Yazilim+Gelistirici;Siber+Guvenlik+Meraklisi;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -79,7 +79,6 @@ Amacım;
 
 ---
 
-# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -114,7 +113,6 @@ Modern masaüstü metin editörü
 - [ ] Linux konusunda uzmanlaşmak
 - [ ] OWASP Top 10'u uygulamalı öğrenmek
 - [ ] Açık kaynak projelere katkı
-- [ ] Savunma sanayisinde staj yapmak
 
 ---
 
