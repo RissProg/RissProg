@@ -19,7 +19,7 @@
 ```text
 > whoami
 
-👨‍💻 İdriscan
+👨‍💻 Can Ö.
 🎓 Bilgisayar Mühendisliği Adayı
 🔐 Siber Güvenlik Meraklısı
 ⚙️ Yazılım Geliştirici
