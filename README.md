@@ -115,15 +115,6 @@ Modern masaüstü metin editörü
 - [ ] Açık kaynak projelere katkı
 
 ---
-
-# 🏆 GitHub Başarıları
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RissProg&theme=matrix&no-frame=true&row=1&column=7"/>
-
-</p>
-
 ---
 
 # 📈 Activity Graph
