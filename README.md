@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Merhaba%2C+Ben+Can+%7C+RissProg;Yazılım+Geliştirme+Öğrencisiyim;Siber+Güvenliğe+İlgi+Duyuyorum"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Merhaba%2C+Ben+Can+%7C+RissProg;Yazılım+Geliştirici+Ve+Öğrenciyim; Ayrıca+Siber+Güvenliğe+İlgi+Duyuyorum"
     alt="Typing SVG"
   />
 </h1>
